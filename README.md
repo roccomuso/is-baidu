@@ -3,7 +3,6 @@
 [![NPM Version](https://img.shields.io/npm/v/is-baidu.svg)](https://www.npmjs.com/package/is-baidu)
 [![Build Status](https://travis-ci.org/roccomuso/is-baidu.svg?branch=master)](https://travis-ci.org/roccomuso/is-baidu)
 ![node](https://img.shields.io/node/v/is-baidu.svg)
-[![Dependency Status](https://david-dm.org/roccomuso/is-baidu.png)](https://david-dm.org/roccomuso/is-baidu)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 > Verify that a request is from Baidu crawlers using Baidu's DNS verification steps
